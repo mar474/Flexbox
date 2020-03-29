@@ -6,7 +6,7 @@
   
   .menu-container {
     color: #fff;
-    background-color: #5995DA;  /* Blue */
+    background-color: #5995DA;  
     padding: 20px 0;
     display: flex;
     justify-content: center;
@@ -27,7 +27,7 @@
   }
   
   .menu {
-    border: 1px solid #fff;  /* For debugging */
+    border: 1px solid #fff;  
     width: 900px;
     display: flex;
     justify-content: space-around;
@@ -35,7 +35,7 @@
 
   }
   .links {
-    border: 1px solid #fff;  /* For debugging */
+    border: 1px solid #fff; 
     display: flex;
     justify-content: flex-end;
   }
